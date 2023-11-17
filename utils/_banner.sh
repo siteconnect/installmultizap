@@ -37,7 +37,7 @@ print_banner() {
   printf "\n"
 
 printf "${GREEN}";  
-printf "EXCLUSIVO DO MULTIZAP\n";
+printf "BEM VINDO AO INSTALADOR DO MULTIZAP\n";
 printf "${NC}";
   
   
